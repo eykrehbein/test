@@ -11,10 +11,10 @@ pages:
         file: Get_Started.md
   - name: Analytics
     file: Introduction.md
-  - name: Database
-    file: Introduction.md
-    childs:
-      - name: Endpoints
-        file: Introduction.md
-      - name: Structure
-        file: Introduction.md
+  # - name: Database
+  #   file: Introduction.md
+  #   childs:
+  #     - name: Endpoints
+  #       file: Introduction.md
+  #     - name: Structure
+  #       file: Introduction.md
