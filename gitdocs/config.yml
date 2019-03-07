@@ -1,0 +1,7 @@
+pages:
+  - name: Introduction
+    # isPlaceholder: true => this would be non-clickable
+    file: Introduction.md
+    childs:
+      - name: Get Started
+        file: Get_Started.md
