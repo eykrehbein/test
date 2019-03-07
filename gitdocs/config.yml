@@ -4,4 +4,4 @@ pages:
     file: Introduction.md
     childs:
       - name: Get Started
-        file: Get_Starteda.md
+        file: Get_Started.md
