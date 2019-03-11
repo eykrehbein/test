@@ -6,7 +6,7 @@ pages:
       - name: Get Started
         file: MarkedDocsCopy.md
       - name: Authentication
-        file: Get_Started.md
+        file: Test2.md
       - name: Scaling
         file: Get_Started.md
   - name: Analytics
