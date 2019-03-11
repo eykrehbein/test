@@ -4,7 +4,7 @@ pages:
     file: Introduction.md
     childs:
       - name: Get Started
-        file: Get_Started.md
+        file: MarkedDocsCopy.md
       - name: Authentication
         file: Get_Started.md
       - name: Scaling
