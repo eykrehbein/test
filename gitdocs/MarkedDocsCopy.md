@@ -1,5 +1,5 @@
 
-## Publishers
+# Publishers
 
 Publishers are admins who also have the responsibility, privilege, and burden of publishing the new releases to NPM and performing outreach and external stakeholder communications. Further, when things go pear-shaped, they're the ones taking most of the heat. Finally, when things go well, they're the primary ones praising the contributors who made it possible.
 
@@ -21,7 +21,7 @@ To be removed: You can remove yourself through the [GitHub UI](https://help.gith
 
 [Details on badges](#badges)
 
-## Committers
+### Committers
 
 Committers are contributors who also have the responsibility, privilege, some might even say burden of being able to review and merge contributions (just usually not their own).
 
