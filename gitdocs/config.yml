@@ -1,3 +1,4 @@
+style: default
 pages:
   - name: Introduction
     # isPlaceholder: true => this would be non-clickable
